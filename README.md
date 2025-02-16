@@ -2,7 +2,6 @@
 - 👀 I’m interested in LLM/GAN/CNN
 - 🌱 I’m currently learning Rust/Lua
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me Email
 - ⚡ Fun fact: Not all Neural Networks are created equally.
 
 <!---
